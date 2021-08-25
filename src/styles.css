@@ -1,0 +1,35 @@
+.App {
+  max-width: 600px;
+  margin: auto;
+  padding: 2rem;
+}
+
+body {
+  background-color: #e5e7eb;
+}
+
+.rest-city {
+  border-radius: 5px;
+  padding: 0.5rem 1rem;
+  border: 2px solid black;
+  margin: 0.5rem 1rem;
+  cursor: pointer;
+}
+
+.rest-ul {
+  padding-inline-start: 0;
+}
+
+.rest-list {
+  list-style: none;
+  padding: 1rem;
+  border: 1px solid black;
+  width: 70%;
+  margin: 1rem 0rem;
+  border-radius: 0.5rem;
+}
+
+.rest-list .name {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 1.5rem;
+}
